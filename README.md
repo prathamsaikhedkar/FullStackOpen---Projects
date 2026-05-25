@@ -1,2 +1,0 @@
-# FullStackOpen---Projects
-## read me
